@@ -1,0 +1,3 @@
+D:/PROJECT/Human Automatic Fall Detaction/cmake-build-debug/CMakeFiles/Human_Automatic_Fall_Detaction.dir
+D:/PROJECT/Human Automatic Fall Detaction/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/PROJECT/Human Automatic Fall Detaction/cmake-build-debug/CMakeFiles/rebuild_cache.dir

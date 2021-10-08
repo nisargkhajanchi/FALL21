@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Human_Automatic_Fall_Detaction.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\Human_Automatic_Fall_Detaction.dir/objects.a @CMakeFiles\Human_Automatic_Fall_Detaction.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\Human_Automatic_Fall_Detaction.dir/objects.a -Wl,--no-whole-archive -o Human_Automatic_Fall_Detaction.exe -Wl,--out-implib,libHuman_Automatic_Fall_Detaction.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Human_Automatic_Fall_Detaction.dir\linklibs.rsp
